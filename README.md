@@ -26,4 +26,4 @@ I promise you that one day it will be awesome...
    - [certificate transparency log](https://crt.sh/) 
    - [hash cracker](https://crackstation.net/)
    - [base64 decoder/encoder](https://www.base64decode.org/)
- 
+   - [decrypting tool](https://gchq.github.io/CyberChef/)
