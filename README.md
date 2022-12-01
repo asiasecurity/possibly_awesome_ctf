@@ -39,3 +39,4 @@ I promise you that one day it will be awesome...
    - [hash cracker](https://crackstation.net/)
    - [base64 decoder/encoder](https://www.base64decode.org/)
    - [CyberChef(decrypt/encrypt)](https://gchq.github.io/CyberChef/)
+   - [RevShell](https://www.revshells.com/)
